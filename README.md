@@ -22,3 +22,7 @@
 ## Стек
 
 Python (pandas, math, dash, plotly)
+
+## Результаты
+
+![image](https://github.com/user-attachments/assets/a11c3b67-72f5-4d26-8f00-da8ffedc7e19)
